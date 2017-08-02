@@ -18,6 +18,9 @@
 iframe{
 	height: 250px;
 	width: 400px;
+
+	border: 5px solid #A72608;
+	border-radius: 30px;
 }
 
 p{
