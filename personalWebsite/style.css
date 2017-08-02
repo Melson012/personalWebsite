@@ -87,4 +87,12 @@ li {
 	#go-off{
 		display: none;
 	}
+	.test6{
+		height: 52px;
+
+	}
+	#off{
+		display: none;
+		
+	}
 }
