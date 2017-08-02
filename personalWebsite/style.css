@@ -1,11 +1,17 @@
 .jumbotron{
-	background-color: #E6EED6; 
+	background-color: #E6EED6;
+	width: 100vw; 
 }
 .contain-search{
 	margin: 20px 20px;
 
 
 }
+.video-1{
+	height: 250px;
+	width: 400px;
+}
+
 p{
 	color: #BBC5AA;
 }
@@ -19,8 +25,8 @@ h1{
 	text-align: center;
 }
 .test{
-	border: 2px solid red;
-	margin: 20px 5px;
+	border: 2px solid blue;
+	margin-top: 20px;
 
 }
 main{
@@ -44,8 +50,6 @@ main{
 }
 li {
 	list-style: none;
-	display: inline;
-	margin: 20px 10px;
 	color: #A72608;
 
 }
