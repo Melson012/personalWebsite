@@ -74,4 +74,14 @@ li {
 	[class*="col-"] {
 		width: 100%;
 	}
+	iframe{
+		width: 100%;
+		height: 17%%;
+	}
+
+}
+@media only screen and (max-width: 767px){
+	#go-off{
+		display: none;
+	}
 }
