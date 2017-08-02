@@ -1,17 +1,51 @@
+.jumbotron{
+	background-color: #E6EED6; 
+}
+.contain-search{
+	margin: 20px 20px;
+
+
+}
+p{
+	color: #BBC5AA;
+}
 
 body{
 	
 	background-color: #A72608;
-
 }
 h1{
 	color: #E6EED6;
 	text-align: center;
 }
-.col-md-12{
-	border: 2px solid white;
-}
+.test{
+	border: 2px solid red;
+	margin: 20px 5px;
 
+}
 main{
-	background-color: #DDE2C6;
+	background-color: #E6EED6;
+	height: 90vh;
+	margin: 20px 20px;
+}
+.main-con{
+	border: 2px solid #A72608;
+
+}
+.footer-div{
+	color: #BBC5AA;
+}
+.footer{
+	margin: 10px 10px;
+	text-align: center;
+	
+	border-radius: 20px;
+	background-color:#E6EED6 ; 
+}
+li {
+	list-style: none;
+	display: inline;
+	margin: 20px 10px;
+	color: #A72608;
+
 }
