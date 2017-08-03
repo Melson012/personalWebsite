@@ -8,6 +8,7 @@
 
 
 }
+
 .test6{
 	background-color: #090C02;
 
@@ -42,9 +43,11 @@ p{
 
 }
 
+
 .roundb{
 
 	padding: 5px 5px;
+	margin-bottom: 20px;
 	height:100px; 
 	width:100px;
 	border-radius: 60px;
@@ -54,6 +57,15 @@ p{
 body{
 	
 	background-color: #A72608;
+}
+.friedsOn{
+	
+}
+.topt{
+	color:#090C02;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 20px;
 }
 h1{
 	color: #E6EED6;
