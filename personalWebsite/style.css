@@ -157,6 +157,9 @@ li {
 	text-align: center;
 
 }
+
+
+}
 @media only screen and (max-width: 600px){
 	[class*="col-"] {
 		width: 100%;
@@ -167,6 +170,10 @@ li {
 	}
 	#section-2{
 		display: none;
+	}
+	#music{
+		height: 100px; 
+		width:100px;
 	}
 
 }
