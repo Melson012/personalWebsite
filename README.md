@@ -22,12 +22,12 @@ In this project, my Objective was to create a Reposnsive HTML website using Boot
 Creating a wireframe before building the HTML is very benifical. The wireframe it self is a blueprint of your website and allows you to see what it should look like before hand.
 
 
-![wireframe](images/wireframe.jpg)
 
+<img src="images/wireframe.jpg" align="center" height="500" width="400" >
 
 ## colorScheme
 
-The color scheme choosen for this HTML was very eye catching, bright yet smooth, this was done to intrigue the user and for a professoinal fishish.
+The color scheme choosen for this HTML was very eye catching, bright yet smooth, this was done to intrigue the user and for a professoinal finish.
 
 ![colorScheme](images/colorScheme.png)
 
@@ -48,19 +48,20 @@ The process of building the HTML was not that complicated yet the porcess was lo
 Screen shots of my final product with different screen sizes and that they are Responsive:
 
 #### xs - Mobile phones
-![mobilePhone](images/mobilePhones.png)
+
+<img src="images/mobilePhones.png" align="center" height="500" width="370" >
  
 
 
 
 #### sm - Tablets
-![Tablets](images/Tablets.png)
 
+<img src="images/Tablets.png" align="center" height="500" width="500" >
 
 
 
 #### md - Desktop
-![desktop](images/desktop.png)
 
+<img src="images/desktop.png" align="center" height="400" width="700" >
 
 ###### Melson Fernandes
