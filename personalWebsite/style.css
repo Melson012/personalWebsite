@@ -35,6 +35,15 @@ p{
 	
 
 }*/
+.dropdownfriends{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	color: #090C02;
+}
+.friedsOn{
+	width: 20px
+	margin:0px;
+}
 .Avengers{
 	height: 200px;
 	width: 100%;
@@ -58,9 +67,12 @@ body{
 	
 	background-color: #A72608;
 }
-.friedsOn{
-	
+.online{
+	width: 20px;
+    height: 20px;
+    
 }
+
 .topt{
 	color:#090C02;
 	font-weight: bold;
@@ -166,9 +178,19 @@ li {
 		display: none;
 
 	}
+	.friedsOn{
+		display: none;
+	}
 	.user-con{
 		display: none;
 	}
+}
+@media only screen and (min-width: 768px){
+	.dropdownfriends{
+		display: none;
+
+	}
+
 }
 
 /*@media only screen and (max-width: 991px){
