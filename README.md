@@ -65,11 +65,11 @@ Screen shots of my final product with different screen sizes and that they are R
 <img src="images/desktop.png" align="center" height="400" width="700" >
 
 
-#### Conclusion
+## Conclusion
 
 In Conclusion, I belive I met the objectives set out to be completed. By achieving this I created a product with a well constructed layout that can adpat to all screen sizes.
 
-##### Future Imporvemnts
-For futhur improvements, i would implement a better nav bar and footer as it is not very visible once the screen size changes to the mobile phone. And also, improve the usabllity and accessablity of the webpage so it is sutible for a user to use it with no difficulties. 
+## Future Imporvements
+For further improvements, i would implement a better nav bar and footer as it is not very visible once the screen size changes to the mobile phone. And also, improve the usabllity and accessablity of the webpage so it is sutible for a user to use it with no difficulties. 
 
 ###### Melson Fernandes
