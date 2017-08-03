@@ -9,7 +9,7 @@ In this project, my Objective was to create a Reposnsive HTML website using Boot
 
 #### Tasks:
 
-- [Wireframe](#wireFrame)
+- [Wireframe](##wireFrame)
 - [Color-Scheme](#colorScheme)
 - [Bootstrap](#bootStrap)
 - [Build HTML](#buildHTML)
@@ -18,7 +18,7 @@ In this project, my Objective was to create a Reposnsive HTML website using Boot
 
 
 
-##wireFrame
+## wireFrame
 Creating a wireframe before building the HTML is very benifical. The wireframe it self is a blueprint of your website and allows you to see what it should look like before hand.
 
 
