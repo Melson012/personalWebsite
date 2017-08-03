@@ -29,7 +29,20 @@ p{
 .users{
 	padding-top: 20px;
 }
-img{
+/*#Avengers{
+
+	
+
+}*/
+.Avengers{
+	height: 200px;
+	width: 100%;
+	margin: 20px 75px 20px 10px;
+	border-radius: 20px;
+
+}
+
+.roundb{
 
 	padding: 5px 5px;
 	height:100px; 
@@ -59,12 +72,28 @@ h1{
 	padding-bottom: 20px;
 
 }
-main{
+#section-1{
 	background-color: #E6EED6;
 	height: 100%;
 	margin: 20px 20px;
 	border-radius: 8px;
+	
+
 }
+#section-2{
+	background-color: #E6EED6;
+	height: 100%;
+	margin: 20px 20px;
+	border-radius: 8px;
+
+}
+
+/*main{
+	background-color: #E6EED6;
+	height: 100%;
+	margin: 20px 20px;
+	border-radius: 8px;
+}*/
 .main-con{
 	border: 2px solid #A72608;
 
@@ -88,7 +117,7 @@ footer{
 
 }
 #foot{
-	margin-left: 70px;
+	margin-left: 40px;
 	
 
 }
@@ -108,6 +137,10 @@ li {
 		width: 100%;
 		height: 17%%;
 	}
+	#section-2{
+		display: none;
+	}
+
 }
 @media only screen and (max-width: 767px){
 	#go-off{
@@ -121,11 +154,12 @@ li {
 		display: none;
 
 	}
-}
-
-@media only screen and (max-width: 991px){
-
 	.user-con{
 		display: none;
 	}
 }
+
+/*@media only screen and (max-width: 991px){
+
+	
+}*/
