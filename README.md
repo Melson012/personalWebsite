@@ -9,11 +9,11 @@ In this project, my Objective was to create a Reposnsive HTML website using Boot
 
 #### Tasks:
 
-- [Wireframe](##wireFrame)
-- [Color-Scheme](#colorScheme)
-- [Bootstrap](#bootStrap)
-- [Build HTML](#buildHTML)
-- [Screen-Shots](#screenShots)
+- [Wireframe](#wireframe)
+- [Color-Scheme](#colorscheme)
+- [Bootstrap](#bootstrap)
+- [Build HTML](#buildhtml)
+- [Screen-Shots](#screenshots)
 
 
 
