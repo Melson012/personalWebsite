@@ -35,6 +35,7 @@ img{
 	height:100px; 
 	width:100px;
 	border-radius: 60px;
+	border: 5px solid #A72608;
 }
 
 body{
@@ -71,16 +72,32 @@ main{
 .footer-div{
 	color: #BBC5AA;
 }
-.footer{
-	margin: 10px 10px;
+footer{
+	border: 2px solid white;
+	height: 35px;
+	margin: 10px 20px; 
+	background-color: #E6EED6;
 	text-align: center;
-	
-	border-radius: 20px;
-	background-color:#E6EED6 ; 
+	border-radius: 80px
 }
+.footer-li{
+	padding: 0px 0px;
+	margin: 0px;
+	padding-top: 5px;
+
+
+}
+#foot{
+	margin-left: 70px;
+	
+
+}
+
 li {
 	list-style: none;
 	color: #A72608;
+	display: inline;
+	text-align: center;
 
 }
 @media only screen and (max-width: 600px){
@@ -103,5 +120,12 @@ li {
 	#off{
 		display: none;
 
+	}
+}
+
+@media only screen and (max-width: 991px){
+
+	.user-con{
+		display: none;
 	}
 }
