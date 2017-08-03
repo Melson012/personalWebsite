@@ -72,6 +72,10 @@ body{
     height: 20px;
     
 }
+.av-con{
+	margin-bottom: 20px;
+	
+}
 
 .topt{
 	color:#090C02;
@@ -166,7 +170,7 @@ li {
 	}
 
 }
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 799px){
 	#go-off{
 		display: none;
 	}
@@ -185,7 +189,7 @@ li {
 		display: none;
 	}
 }
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 800px){
 	.dropdownfriends{
 		display: none;
 
