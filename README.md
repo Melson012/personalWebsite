@@ -1,4 +1,4 @@
-<img src="http://spartaglobal.com/wp-content/uploads/2014/09/promotion-to-sparta-consulting.png" align="center" height="100" width="100" >
+<img src="https://pbs.twimg.com/profile_images/918487446526054400/tbCLvxih_400x400.jpg" align="center" height="100" width="100" >
  
 
 # personalWebsite
@@ -15,7 +15,9 @@ In this project, my Objective was to create a Reposnsive HTML website using Boot
 - [Build HTML](#buildhtml)
 - [Screen-Shots](#screenshots)
 
-[Live Website]( https://melson012.github.io/personalWebsite/)
+
+
+[Live Website](https://melson012.github.io/personalWebsite/personalWebsite/)
 
 
 
